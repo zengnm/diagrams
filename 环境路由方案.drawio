@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T11:18:44.118Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" version="14.2.4" etag="AfH92DZjx-Aadlfxl9ua" type="github"><diagram id="T0v_xlP-jUpLIMXHfi4y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T12:37:16.063Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="zKOrJWbQLEI28D_dhyTG" version="14.2.4" type="github">
+  <diagram id="T0v_xlP-jUpLIMXHfi4y" name="Page-1">
+    <mxGraphModel dx="1186" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pnuJfw8vdlqW29GeNrHY-1" value="dubbok环境名路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pnuJfw8vdlqW29GeNrHY-2" value="dubbok&lt;br&gt;aone scm路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pnuJfw8vdlqW29GeNrHY-3" value="alidubbo3 &lt;br&gt;aone scm路由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pnuJfw8vdlqW29GeNrHY-4" value="&amp;nbsp;微服务引擎动态路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pnuJfw8vdlqW29GeNrHY-6" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="189.5" as="sourcePoint" />
+            <mxPoint x="230" y="189.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnuJfw8vdlqW29GeNrHY-7" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="189.5" as="sourcePoint" />
+            <mxPoint x="430" y="189.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnuJfw8vdlqW29GeNrHY-8" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="189.5" as="sourcePoint" />
+            <mxPoint x="630" y="189.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

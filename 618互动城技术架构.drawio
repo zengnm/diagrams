@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T08:04:22.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="aytQNZ1h9hZHYls9q8rr" type="github"><diagram id="WtcN0ib-zTL-6sgLEDqq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-25T08:40:02.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="i2QpTppstaB37AV3pQrb" version="14.6.13" type="github">
+  <diagram id="WtcN0ib-zTL-6sgLEDqq" name="Page-1">
+    <mxGraphModel dx="1694" dy="949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yQsRP-smEFoYBMEX3547-4" value="&lt;div&gt;&lt;span&gt;618互动城&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="601" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-5" value="乐高搭建" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="262" width="462" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-6" value="用户增长" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="516" width="468" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-7" value="逛一逛任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="184" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-8" value="新客转化任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="184" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-9" value="逛一逛承接页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="310" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-10" value="商业化商品承接页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="308.5" width="104" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-11" value="任务领取记录" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="155" y="550" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-12" value="商业化商品点击记录" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="111" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-13" value="商业化商品信息补全、排序" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="446.5" y="550" width="90.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-14" value="商业化" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120.25" y="743" width="591.75" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-15" value="cpa任务校验" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="155" y="619" width="86" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-16" value="cpa任务奖励派发" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="622" width="102" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-17" value="CPS商业化商品" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="195" y="774" width="102" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-18" value="CPT商业化商品" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="774" width="102" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-19" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="221" as="sourcePoint" />
+            <mxPoint x="214" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-20" value="领取后跳转到" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228" y="226" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-21" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="348" as="sourcePoint" />
+            <mxPoint x="324" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-23" value="交易系统" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="398" y="388" width="182" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-24" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494" y="348" as="sourcePoint" />
+            <mxPoint x="494" y="388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-25" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="492" y="478" as="sourcePoint" />
+            <mxPoint x="492" y="518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-26" value="购买商品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="511" y="353" width="61" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-27" value="交易成功通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="502.75" y="478" width="87" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-28" value="上报领取与点击事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="329" y="403.5" width="67" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-32" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="742" as="sourcePoint" />
+            <mxPoint x="315" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-33" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.149;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="yQsRP-smEFoYBMEX3547-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189" y="515" as="sourcePoint" />
+            <mxPoint x="194" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-34" value="商业化商品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="203" y="412" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-35" value="提供商业化商品数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326" y="711" width="127" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-37" value="数据" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="625" y="264" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-38" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="yQsRP-smEFoYBMEX3547-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="592" y="596" as="sourcePoint" />
+            <mxPoint x="687" y="541" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-39" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yQsRP-smEFoYBMEX3547-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="727" y="313" as="sourcePoint" />
+            <mxPoint x="665" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-40" value="更新任务完成人群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="672" y="492" width="59" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="yQsRP-smEFoYBMEX3547-41" value="奖励派发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="691" y="233" width="55" height="19" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

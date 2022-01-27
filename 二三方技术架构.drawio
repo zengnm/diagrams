@@ -1,1 +1,589 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T09:50:15.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.1.0" etag="Y0VdEojrWJzJ5vm54Olu" type="github"><diagram id="fR6EB6p-C8-Al33i775-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-27T06:06:05.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ymCorIhnwMuNYpNpjF_g" version="16.1.0" type="github">
+  <diagram id="fR6EB6p-C8-Al33i775-" name="Page-1">
+    <mxGraphModel dx="2636" dy="1484" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="20000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ribsoagVWuYRxLllPt55-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="698" y="1189" width="1540" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-103" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1933" y="1316" width="284" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-102" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1621" y="1317" width="284" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-101" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1318" y="1317" width="284" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-100" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="1317" width="284" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-99" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="722" y="1318" width="284" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="108.5" width="1540" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="696" y="679" width="1540" height="468" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="696" y="352" width="1539" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-67" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="142.25" width="360" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-62" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="131" width="505" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="997" y="383.88" width="381" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-49" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="379" width="537" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-2" value="渠道接入SOP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="757" y="979" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-3" value="节点动态编排" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="830.0400000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-4" value="权益人群定投" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="745.0400000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="1334" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1147" y="733.0400000000001" as="sourcePoint" />
+            <mxPoint x="1405" y="733.0400000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-9" value="准入人群控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="750.0400000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-10" value="任务奖励派发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="827.0400000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-11" value="通用任务体系化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1186" y="703.0400000000001" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-12" value="任务接入标准化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="753.0400000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-13" value="库存管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1672" y="821.0400000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-14" value="权益凭证、兑换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="821.0400000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-15" value="权益包投放" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1672" y="747.0400000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" y="730.0400000000001" as="sourcePoint" />
+            <mxPoint x="1788" y="730.0400000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-17" value="二方渠道权益合作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1599" y="696.0400000000001" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-18" value="渠道信息中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="757" y="1058" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-19" value="渠道质量管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="902" y="1058" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-20" value="代投商接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="903" y="979" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="762" y="964" as="sourcePoint" />
+            <mxPoint x="1020" y="964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-22" value="渠道接入标准化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="826" y="930" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-23" value="任务配置&lt;br&gt;信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1029" y="1340" width="63" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-24" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="1330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-25" value="任务完成实时数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1166" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-26" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="776" y="1336" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-27" value="全渠道&lt;br&gt;信息表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1359" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-28" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="928" y="1334" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-29" value="代投商&lt;br&gt;信息表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="868" y="1355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-30" value="离线圈人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="980.54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-31" value="实时圈人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="979.54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-32" value="用户质量分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="1059.54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-33" value="RTA自定义频控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="1059.54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1143" y="962" as="sourcePoint" />
+            <mxPoint x="1406" y="961.54" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-35" value="人群服务精准化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1231" y="928" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-36" value="场景还原" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="757" y="746.04" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-37" value="口令码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="912" y="746.04" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-38" value="流量海关&lt;br&gt;埋点上报" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="757" y="830.04" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-39" value="智能分包归因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="912" y="830.04" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="757.0000000000005" y="733.5" as="sourcePoint" />
+            <mxPoint x="1027.9999999999995" y="733.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-41" value="唤端承接无障碍" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="831" y="696.04" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-42" value="投放任务配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1749" y="412" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-43" value="海豚" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="401.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-44" value="监测链接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1903" y="411" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-45" value="ocpx接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="2046" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-46" value="人群包出站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1752" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-47" value="RTA接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1903" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-48" value="DPA接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="2046" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-50" value="巨浪中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="1672" y="469" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-52" value="二方任务渠道对接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="453.88" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-53" value="openapi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="402.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-54" value="五棱镜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="487.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-55" value="uv标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="488.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="726" y="381.88" width="243" height="178.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-57" value="奥格" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="819" y="401.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-58" value="哈勃" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="819" y="482.38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-59" value="人群圈选与准入控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="736" y="460.38" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-60" value="支付宝互动城&lt;br&gt;cpa购买任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-61" value="会员积分频道&lt;br&gt;cpa购买任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="937" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-63" value="互动任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="728" y="183" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-64" value="高德到端任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="937" y="212" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-65" value="五棱镜到端任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788" y="214" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-66" value="支付宝兑换券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1324" y="150.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-68" value="权益合作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1253" y="196.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="1644.5" y="144" width="587.5" height="143.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-70" value="三方媒体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="1644.5" y="196.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-71" value="华为" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1701.5" y="147.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-72" value="头条系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1833.5" y="147.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-73" value="腾讯系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970.5" y="150.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-74" value="苹果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1701.5" y="211.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-75" value="网盟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1833.5" y="211.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-76" value="线下推广" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970.5" y="215.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-77" value="免注册领券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1459" y="150.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-78" value="搭建权益模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1324" y="214.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-79" value="双重礼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1459" y="214.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-80" value="新老客复购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-81" value="&lt;span&gt;优酷到端任务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="212" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-86" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1383" y="1330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-87" value="权益包&lt;br&gt;信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1323" y="1355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-88" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1532" y="1330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-89" value="库存及派发记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1472" y="1355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-91" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1691" y="1330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-92" value="巨浪回传实时数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1623" y="1351" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-93" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1832" y="1330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-94" value="巨浪上报业务数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1772" y="1355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-95" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2002" y="1330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-96" value="场景还原策略计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2086" y="1355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-97" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="1326" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-98" value="广告投放渠道维表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1933" y="1355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-104" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="1213" width="379" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-105" value="DUA拆解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="838" y="1221.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-106" value="渠道多维下钻" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="969" y="1221.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-107" value="全渠道归因看板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="733" y="1236.5" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-108" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1138" y="1213" width="371" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-109" value="后链路指标拆解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="1221.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-110" value="财务视角看板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="1237.5" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-111" value="预算消耗趋势图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1377" y="1223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-112" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="1213" width="355" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-113" value="投放数据门户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1529" y="1236.5" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-114" value="归因诊断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1221" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-115" value="异动分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1742" y="1223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-119" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1896" y="1213" width="334" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-120" value="实时业务监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1901" y="1240" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-121" value="全链路实时监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1978" y="1223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-122" value="智能预警及异常诊断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="1223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-123" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1522" y="965.46" as="sourcePoint" />
+            <mxPoint x="1792.999999999999" y="965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-124" value="投放素材个性化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1597.5" y="935" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-125" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1913" y="733.5" as="sourcePoint" />
+            <mxPoint x="2183.999999999999" y="733.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-126" value="广告ROI优化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1987" y="696.04" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-127" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1918.9999999999995" y="963.46" as="sourcePoint" />
+            <mxPoint x="2189.9999999999986" y="963" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-129" value="DPA商品库输出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1523.5" y="986" width="120" height="59.54" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-130" value="程序化创意" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1677.5" y="985" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-131" value="SDPA货找人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1522" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-132" value="物料库素材接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1677.5" y="1059.54" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-133" value="转化实时上报ocpx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="1913" y="747" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-134" value="RTB实时竞价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2056" y="747" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-135" value="RTA参竞出价系数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1913" y="833" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-136" value="渠道价格管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2056" y="833" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-137" value="二三方心智承接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="933" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-138" value="考拉小程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1913" y="984" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-139" value="搭建拉新模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="2069" y="984" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-140" value="心智权益触点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1913" y="1066" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-141" value="端外承接页" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="2069" y="1066" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-142" value="已具备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="2573" y="1213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-143" value="进行中" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="2575" y="1301.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-144" value="规划中" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2575" y="1384.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-145" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1792" y="299" as="sourcePoint" />
+            <mxPoint x="1792" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-146" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1948" y="299" as="sourcePoint" />
+            <mxPoint x="1948" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-148" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2101" y="365" as="sourcePoint" />
+            <mxPoint x="2101" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-149" value="RTA定向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1732" y="312" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-150" value="用户实时数据回传" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="312" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-151" value="转化上报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2042" y="312" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-153" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;二三方渠道&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="589" y="189" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-154" value="渠道接入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="582" y="469" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-155" value="投放服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="589" y="916" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-156" value="投放数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="589" y="1295" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-157" value="异业合作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2102" y="151.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-158" value="其它" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2102" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-160" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1418" y="385" width="207" height="175.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-161" value="渠道包管理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="447" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-162" value="摩天轮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="466" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-163" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1526" y="372.5" as="sourcePoint" />
+            <mxPoint x="1526" y="299.4999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-164" value="提供渠道包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1442" y="317" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-166" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="853" y="375" as="sourcePoint" />
+            <mxPoint x="853" y="302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-168" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1189" y="375" as="sourcePoint" />
+            <mxPoint x="1189" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-169" value="互动任务接入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="321" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-170" value="人群投放与准入控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="783" y="321" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-172" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2282" y="105" width="256" height="1334" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-173" value="投放运营" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2364.5" y="144" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-175" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2343" y="195.38" width="136" height="371.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-176" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2345.75" y="611" width="134.5" height="408" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-177" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2351" y="1069" width="133" height="348" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-178" value="投放任务分配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2353" y="222.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-179" value="投放渠道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2353" y="290.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-180" value="投放策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2353" y="362.76" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-181" value="实时投放数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2353" y="429.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-182" value="投放效果分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2353.5" y="495.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-183" value="投放管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2376" y="193.88" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-184" value="素材管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2353" y="644.04" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-185" value="资源管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2380.25" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-187" value="排期管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2354.25" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-188" value="账户管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2354.25" y="797" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-189" value="渠道管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2354.25" y="869" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-190" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2354.25" y="944" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-191" value="任务信息配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2357.5" y="1108" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-192" value="cpa任务管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2376" y="1074.54" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-193" value="二方互动渠道管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2358" y="1187" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-194" value="实时数据看板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2358" y="1266" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ribsoagVWuYRxLllPt55-195" value="业务异常诊断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2359" y="1338" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
